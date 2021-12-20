@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/PYQGIS" >
+        <file>icon.png</file>
+        <file>Logo-conseil-tangerr.jpg</file>
+        <file>ProvincesScreen.ui</file>
+        <file>CommunesScreen.ui</file>
+    </qresource>
+</RCC>
